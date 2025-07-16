@@ -7,4 +7,4 @@ Nebula is a python program with multiple hacking tools such as, Coordinate Finde
 | ✔️ | Linux |
 | ✔️ | Windows |
 | ✔️ | Mac |
-<img width="1051" height="616" alt="screenshot" src="https://github.com/user-attachments/assets/6ba9a852-17aa-4e98-acc1-7396a2d5814b" />
+<img width="151" height="516" alt="screenshot" src="https://github.com/user-attachments/assets/6ba9a852-17aa-4e98-acc1-7396a2d5814b" />
