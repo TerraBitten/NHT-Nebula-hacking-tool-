@@ -7,7 +7,6 @@ import requests
 
 def change_ip(proxy):
     try:
-        # Set up the proxy
         proxies = {
             "http": proxy,
             "https": proxy,
@@ -74,7 +73,7 @@ if x == "9":
     if result.returncode != 0:
         print("Error:", result.stderr)
 
-unblocker = "http://0.0.0.0:8000/"
+unblocker = "https://nebula-blocker.vercel.app/"
 location = "https://www.google.com.au/maps/@23.8083902,53.5412575,3z?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"
 
 if x == "2":
